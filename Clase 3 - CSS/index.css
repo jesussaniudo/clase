@@ -1,0 +1,21 @@
+.cuadrado {
+    background-color: black;
+    height: 200px;
+    width: 200px;
+
+}
+.cuadrado2 {
+    background-color: aliceblue;
+    height: 50px;
+    width: 50px;
+}
+.rectangulo {
+    background-color: brown;
+    height: 200px;
+    width: 50vw;
+}
+.rectangulo2 {
+    background-color: violet;
+    height: 200px;
+    width: 50%;
+}
