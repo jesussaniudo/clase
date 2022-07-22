@@ -1,0 +1,21 @@
+.titulo1 {
+    font-family: 'Edu VIC WA NT Beginner', cursive;
+}
+@font-face {
+    font-family: Roboto-Thin;
+    src: url(./font/Roboto/Roboto-Thin.ttf);
+}
+.titulo2 {
+    font-family: 'roboto-thin';
+    font-size: 50px;
+    font-weight: 900;
+    font-style: oblique;
+    text-decoration: underline;
+    letter-spacing: 15px;
+    text-align: center;
+
+}
+.titulo3 {
+    font-family: 'roboto-thin';
+    font-size: 50%;
+}
