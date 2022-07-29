@@ -1,0 +1,53 @@
+a{
+    text-decoration: none;
+    color: black;
+
+}
+header {
+    display: flex;
+    height: 80px;
+    background-color:#471FC9 ;
+    justify-content:space-between;
+    align-items: center;
+    
+}
+body {
+    background-color: darkgray;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 0px;
+
+
+}
+.logo {
+    display: flex;
+    align-items: center;
+    
+}
+.logo-nombre {
+    align-items: center;
+
+}
+
+.logo img {
+    height: 70px;
+    align-items: center;
+    margin-right: 10px;
+    margin: 10%;
+
+}
+nav a {
+    padding-right: 10px;
+    font-weight: 600;
+}
+nav a:hover{
+    color: white;
+
+}
+@media (max-width:700px){
+    .header{ 
+    flex-direction: columns;
+}
+nav{
+    padding: 10px 0px;
+}
+}
